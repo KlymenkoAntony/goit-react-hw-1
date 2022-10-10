@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { Avatar, Name, Tag, Location, Stats, Label, Quantity } from './Prifile.styled';
+import { Avatar, Name, Tag, Location, Stats, Label, Quantity } from './Profile.styled';
 import { Box } from '../Box/Box';
 
 export default function Profile({ username, tag, location, avatar, stats }) {
